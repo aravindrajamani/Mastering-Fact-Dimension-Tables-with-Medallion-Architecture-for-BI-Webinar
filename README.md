@@ -32,6 +32,9 @@ We ingest raw data from **MySQL** into **PostgreSQL**, apply minimal cleaning in
 
 ## 🏛️ Architecture
 
+<img width="661" height="491" alt="Olist_datawarehouse_architecture drawio" src="https://github.com/user-attachments/assets/f5e00ba5-cabb-4475-9144-855f0922e9fc" />
+
+
 ```
 ┌──────────────────────────────────────────────────────────┐
 │                    SOURCE SYSTEMS                         │
